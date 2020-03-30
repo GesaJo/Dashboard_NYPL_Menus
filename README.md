@@ -14,6 +14,6 @@ AWS RDS, EC2
 
 
 # To Do:
-- clean up data with methods of Open Refine Clustering: fingerprint, n-gram fingerprint, phoentic fingerprint, edit distance
+- clean up data with methods of Open Refine Clustering: fingerprint, n-gram fingerprint, phoentic fingerprint, edit distance, trigram matching
 - finish dashboard
 - add locations
