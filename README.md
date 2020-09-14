@@ -2,7 +2,7 @@
 
 A peek into the New York Public Libraries Collection "What's on the Menu?"
 
-Link to dashboard [here.](http://3.120.225.151/public/dashboard/b0c08b2a-a627-41ab-95a8-baf31a340b27)
+Link to dashboard [here.](http://3.120.225.151/public/dashboard/b0c08b2a-a627-41ab-95a8-baf31a340b27) (Not deployed right now)
 
 Data from the [New York Public Library Project](http://menus.nypl.org/data), from the 16th of March 2020.
 
